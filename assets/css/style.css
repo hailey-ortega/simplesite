@@ -481,7 +481,7 @@ section {
 }
 #about .about-container .background {
   min-height: 1200px;
-  background: url(https://github.com/hailey-ortega/simplesite/blob/main/assets/img/68D4BC30-186E-4DA7-A9DD-A1A22AC5F105.jpeg) center top no-repeat; /* this sets the image and properties on the about page */
+  background: url(https://github.com/hailey-ortega/simplesite/blob/main/assets/img/68D4BC30-186E-4DA7-A9DD-A1A22AC5F105.jpeg?raw=true) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
 #about .about-container .content {
